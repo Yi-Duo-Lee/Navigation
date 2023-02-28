@@ -1,0 +1,2 @@
+LeGO-LOAM-master/LeGO-LOAM:LeGO-LOAM-master/cloud_msgs:hdl_global_localization:hdl_localization:ndt_omp_1:octomap_mapping/octomap_mapping:octomap_mapping/octomap_server:path_planning/aika_src/my_navigation:path_planning/aika_src/teb_local_planner-melodic-devel:path_planning/guyueju_src/race_navigation:plane_fit_ground_filter:pointcloud_to_laserscan:read_pcd/catkin_ws/src/read_pcd:slam_bot:teleop_twist_keyboard:velodyne_description
+-DCATKIN_DEVEL_PREFIX=/home/robot/Navigation/devel -DCMAKE_INSTALL_PREFIX=/home/robot/Navigation/install -G Unix Makefiles

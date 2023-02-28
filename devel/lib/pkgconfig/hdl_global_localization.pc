@@ -1,0 +1,8 @@
+prefix=/home/robot/Navigation/devel
+
+Name: hdl_global_localization
+Description: Description of hdl_global_localization
+Version: 0.0.0
+Cflags: -I/home/robot/Navigation/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
